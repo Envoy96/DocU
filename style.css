@@ -1,0 +1,39 @@
+body{
+    background-image: url(bg1.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 45px;
+    font-family:cursive;
+    color: rgb(255, 223, 255);
+    background-image: url(bg\ header.jpg); 
+    background-size: 150%;
+    }
+#Book1 {
+    padding-top: 50px;
+}
+#Book2 {
+    padding-top: 50px;
+}
+#Book3 {
+    padding-top: 50px;
+}
+#Book4 {
+    padding-top: 50px;
+}
+#Book5 {
+    padding-top: 50px;
+}
+#Book6 {
+    padding-top: 50px;
+}
+#Book7 {
+    padding-top: 50px;
+}
+
+footer {
+    background-color: blanchedalmond;
+}
